@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Bread",
+      "type": "GRAINS",
+      "price": 5
+    },
+    {
+      "name": "Bread",
+      "type": "GRAINS",
+      "price": 5
+    },
+    {
+      "name": "Cereals",
+      "type": "GRAINS",
+      "price": 8
+    }
+  ]
+}
